@@ -1,6 +1,6 @@
 # OutlawAlley-WildWestFest
 <h2>This is a WANTED Poster Generator made for the Wild West Fest 2023</h2>
-<br>This was developed in Python 3 using the Tkinter and OpenCV engine in about 2 weeks.
+<br>This was developed in Python 3 using the Tkinter, Pillow, and OpenCV libraries in about 2 weeks.
 
 <h3>If you wish to use this at your own event credit and share the original creation.
 <br>Created by Patrick Madonna 2023</h3>
